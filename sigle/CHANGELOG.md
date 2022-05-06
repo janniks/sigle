@@ -1,5 +1,19 @@
 # @sigle/app
 
+## 1.3.0
+
+### Minor Changes
+
+- dea06e3: Allow users to add their website link and twitter handle in the settings, to be shown on the new profile pages.
+- 88348ca: Add analytics page containing a paginated frame for published stories.
+
+### Patch Changes
+
+- 6e6fe0d: (Beta) Users can now decide to login with the Hiro web wallet.
+- 119f119: Refactor pages testing structure.
+- 826a78e: Fix source of the issue with editor header appearing over settings dialog.
+- 1f1d696: Detect and show guide when BNS missconfiguration is detected.
+
 ## 1.2.0
 
 ### Minor Changes
